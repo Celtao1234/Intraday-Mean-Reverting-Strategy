@@ -7,8 +7,7 @@ Domain: Quantitative Trading / Algorithmic Backtesting
 Overview
 
 This project implements a high-frequency mean-reversion trading simulator for futures spreads. It provides a robust backtesting engine with per-minute P&L, trade logs, and daily summaries for multiple underlyings. The system models position sizing, slippage, transaction costs, and expiry handling, making it suitable for evaluating strategy performance under realistic market conditions.
-
-File Structure
+File structure
 .
 ├── run_sim.py            # Core backtesting engine: spread construction, rolling stats, simulation
 ├── combine_results.py    # Consolidates multiple simulation outputs for analysis
@@ -17,6 +16,7 @@ File Structure
 ├── data/                 # CSV files with historical futures and cash prices
 ├── results/              # Output per-minute, trades, summary, daily CSVs
 ├── README.md
+
 
 Core Functionality
 run_sim.py
