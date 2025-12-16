@@ -30,7 +30,7 @@ It generates **per-minute P&L**, **trade logs**, and **daily summaries**, enabli
 
 The dataset required for running the backtesting scripts is hosted on Google Drive due to file size constraints.
 
-**Download link:** [MR Spread Backtesting Data]([[https://drive.google.com/your_link_here](https://drive.google.com/file/d/1H5f_A8efs4YrqqPidpkPBxKbAjrhTFhw/view?usp=drive_link)](https://drive.google.com/file/d/1H5f_A8efs4YrqqPidpkPBxKbAjrhTFhw/view?usp=drive_link))
+**Download link:** (https://drive.google.com/file/d/1H5f_A8efs4YrqqPidpkPBxKbAjrhTFhw/view?usp=drive_link))
 
 > **Note:** Place the downloaded files in a folder called `data/` inside the repo before running the scripts.
 
