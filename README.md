@@ -31,6 +31,8 @@ It generates **per-minute P&L**, **trade logs**, and **daily summaries**, enabli
 The dataset required for running the backtesting scripts is hosted on Google Drive due to file size constraints.
 
 **Download link:** (https://drive.google.com/file/d/1H5f_A8efs4YrqqPidpkPBxKbAjrhTFhw/view?usp=drive_link))
+The compiled results per strategy is hosted in the same google drive folder:
+**Reults per Strategy** (https://drive.google.com/drive/folders/1lAIHSe7-WvQH6_97gNp-EysCT6pWrsRc?usp=sharing))
 
 > **Note:** Place the downloaded files in a folder called `data/` inside the repo before running the scripts.
 
@@ -61,5 +63,4 @@ Provides daily P&L breakdown with carry-forward, enabling accurate strategy eval
 
 Modular structure enables easy comparison of strategies and parameters.
 
-Detailed Results per each strategy can be found here:-https://drive.google.com/drive/folders/1lAIHSe7-WvQH6_97gNp-EysCT6pWrsRc?usp=sharing
 
