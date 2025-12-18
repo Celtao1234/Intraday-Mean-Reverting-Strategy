@@ -60,3 +60,6 @@ Supports parallel processing for multiple underlyings using ProcessPoolExecutor.
 Provides daily P&L breakdown with carry-forward, enabling accurate strategy evaluation.
 
 Modular structure enables easy comparison of strategies and parameters.
+
+Detailed Results per each strategy can be found here:-https://drive.google.com/drive/folders/1lAIHSe7-WvQH6_97gNp-EysCT6pWrsRc?usp=sharing
+
